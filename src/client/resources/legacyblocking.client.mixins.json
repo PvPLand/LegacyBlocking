@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "land.pvp.legacyblocking.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"SwingProgressMixin",
+		"EquipProgressMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
